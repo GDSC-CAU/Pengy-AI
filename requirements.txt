@@ -71,7 +71,7 @@ tensorflow-estimator==2.15.0
 tensorflow-intel==2.15.0
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
-tflite-support==0.1.0a1
+tflite-support==0.4.4
 thop==0.1.1.post2209072238
 torch==2.2.0
 torchvision==0.17.0
