@@ -35,7 +35,7 @@ numpy==1.26.4
 oauthlib==3.2.2
 onnx==1.15.0
 onnx-graphsurgeon==0.3.27
-onnx2tf==1.17.5
+onnx2tf==1.19.13
 onnxruntime==1.17.0
 onnxsim==0.4.35
 opencv-python==4.9.0.80
