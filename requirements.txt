@@ -41,7 +41,7 @@ onnxsim==0.4.35
 opencv-python==4.9.0.80
 opt-einsum==3.3.0
 packaging==23.2
-pandas==2.2.0
+pandas==2.2.2
 pillow==10.2.0
 protobuf==4.25.3
 psutil==5.9.8
